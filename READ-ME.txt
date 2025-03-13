@@ -1,0 +1,11 @@
+  =>  Template Name    : Radix Group - Shipping Company Website Template
+
+  =>  Template Link    : https://github.com/whysoseriou9s/shipping-company-website-template
+
+  =>  Template License : https://github.com/whysoseriou9s/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Radix Group.
+
+  =>  Author Website   : https://github.com/whysoseriou9s
+
+  =>  About Radix Group. : Radix Group. is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://github.com/whysoseriou9s/about-us )
